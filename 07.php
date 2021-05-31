@@ -99,7 +99,7 @@
 			}
 		}		
 
-		$zahid = new Student();
+		$zahid = new Student(); // object instantiation. 
 		$zahid->setHeight(5.8);
 		echo $zahid->getHeight();
 
